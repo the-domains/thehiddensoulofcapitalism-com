@@ -1,0 +1,28 @@
+name: thehiddensoulofcapitalism.com
+favicon: null
+layout_spectrum: 0.670715946238488
+typography_spectrum: 0.23482047533616424
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.944150363560766
+  lightness: 0.8650436182506382
+  saturation: 0.8590232427231967
+  rhythmicContrast: 0.1664522693026811
+purpose: []
