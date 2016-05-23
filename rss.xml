@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[thehiddensoulofcapitalism.com]]></title>
-        <description><![CDATA[thehiddensoulofcapitalism.com]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Hidden Soul Of Capitalism]]></title>
+        <description><![CDATA[The Hidden Soul Of Capitalism]]></description>
+        <link>https://thegrid.ai/thehiddensoulofcapitalism-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 03:14:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 03:26:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thehiddensoulofcapitalism-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>You may click on the link for a free sample of an introductory MiniBook with the title,</p>]]></description>
+            <link>https://thegrid.ai/thehiddensoulofcapitalism-com/you-may-click-on-the-link-for-a-free-sample-of-an-introducto/index.html</link>
+            <guid isPermaLink="false">cf66a6ad-b7f7-414b-907b-fe4cba66a91e</guid>
+            <pubDate>Mon, 23 May 2016 03:26:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hi, my name is Lorin Loverde</p>]]></description>
-            <link>undefinedhi-my-name-is-lorin-loverde/index.html</link>
+            <link>https://thegrid.ai/thehiddensoulofcapitalism-com/hi-my-name-is-lorin-loverde/index.html</link>
             <guid isPermaLink="false">95450597-1f96-4edc-8ccc-ea2b2c7c2512</guid>
             <pubDate>Mon, 23 May 2016 03:14:41 GMT</pubDate>
         </item>
